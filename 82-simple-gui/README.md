@@ -18,6 +18,7 @@
 5. Test your application: it should appear similar, but the button will get smaller
 6. In `display()`, use `JFrame.pack()` to resize the frame to the minimum size prior to displaying
 
+
 ### Part 2
 1. Create a new text field labeled "Result"
 2. Add it to the external `JPanel` in such a way that it gets on the top of the frame (`Borderlayout.NORTH`)
@@ -26,3 +27,5 @@
 ### Part 3
 1. Modify the application in such a way that the text field displays the same number that gets printed
 2. Test it
+
+
